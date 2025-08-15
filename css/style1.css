@@ -1,0 +1,30 @@
+* {
+    font-family: sans-serif; 
+}
+.r1-heading,
+.desc,
+.ingr,
+.steps {
+    display: block;
+    color: rgb(255, 255, 255);
+    background-color: rgb(61, 165, 235);
+    margin: 0 auto 20px auto;
+    padding: 1%;
+}
+
+.desc,
+.ingr,
+.steps {
+    padding: 0%;
+}
+
+.r1-heading {
+
+    text-align: center;
+}
+.img1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
